@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kiran Pathakota"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Organizationally Creative, Technically Sound, Energizingly Curious"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
