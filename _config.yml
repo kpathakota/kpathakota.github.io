@@ -54,11 +54,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
+
 
 author:
   name   : "Kiran Pathakota"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Organizationally Creative, Technically Sound, Energizingly Curious"
+  bio    : "Organizationally creative, technically sound, energizingly curious"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
