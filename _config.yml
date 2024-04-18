@@ -67,25 +67,25 @@ author:
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/imkpats"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/kpathakota"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/kiranpathakota/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/imkpats"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/kpathakota"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/kiranpathakota/"
 
 defaults:
   # _posts
