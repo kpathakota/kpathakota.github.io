@@ -1,10 +1,6 @@
 ---
 layout: single
 title: 
-sidebar:
-  - image: "/assets/images/bio-photo.jpg"
-    image_alt: "hi"
-
 classes: 
     - wide
     - landing
