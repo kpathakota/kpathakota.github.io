@@ -35,6 +35,8 @@ Boyd never described the OODA Loop in a technical paper. Instead, he developed a
 
 What many don't realize is that Boyd's actual OODA diagram, drawn in 1996 during his "Winning and Losing" presentation, is the only visual representation he ever created—and it looks nothing like the simplified circular model most people know. His full model incorporates multiple feedback loops, mental models, cultural traditions, and genetic heritage as components of the orientation phase—the cognitive engine that powers the entire decision cycle.
 
+![alt text](../assets/images/ooda-loop.jpg)
+
 For technical program managers, this more complete understanding reveals why simply "speeding up the loop" often fails to deliver better outcomes. Let's explore how each component applies to the TPM context.
 
 ## Observe: The Art of Technical Signal Detection
