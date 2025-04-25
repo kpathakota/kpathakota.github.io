@@ -11,9 +11,9 @@ tags:
 
 ## Introduction: The Hidden Structure of Technical Decision Making
 
-In the high-velocity world of technical program management, the difference between success and failure often hinges not on the quality of your strategy documents, but on your team's ability to rapidly sense, process, and respond to changing conditions. As technical leaders, we face a paradox: the more complex our systems become, the more we need frameworks that cut through complexity rather than add to it.
+In the world of technical program management, the difference between success and failure often hinges not on the quality of your strategy documents, but on your team's ability to rapidly sense, process, and respond to changing conditions. As technical leaders, we face a paradox: the more complex our systems become, the more we need frameworks that cut through complexity rather than add to it.
 
-This is where Colonel John Boyd's OODA Loop framework enters the picture—not as another process to follow, but as a lens to understand the fundamental rhythm of operational decision-making.
+This is where Colonel John Boyd's OODA Loop framework enters the picture. Observe. Orient. Decide. Act. This is not another process to follow, but a foundational lens to understand the rhythm of program operations.
 
 ## The Origins: From Aerial Combat to Program Management
 
@@ -35,7 +35,7 @@ Boyd never described the OODA Loop in a technical paper. Instead, he developed a
 
 What many don't realize is that Boyd's actual OODA diagram, drawn in 1996 during his "Winning and Losing" presentation, is the only visual representation he ever created—and it looks nothing like the simplified circular model most people know. His full model incorporates multiple feedback loops, mental models, cultural traditions, and genetic heritage as components of the orientation phase—the cognitive engine that powers the entire decision cycle.
 
-![alt text](../assets/images/ooda-loop.jpg)
+![ooda diagram](/assets/images/ooda-loop.jpg)
 
 For technical program managers, this more complete understanding reveals why simply "speeding up the loop" often fails to deliver better outcomes. Let's explore how each component applies to the TPM context.
 
