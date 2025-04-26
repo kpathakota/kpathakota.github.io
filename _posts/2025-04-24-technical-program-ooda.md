@@ -21,7 +21,7 @@ John Boyd was a fighter pilot who became one of the most influential military st
 
 In the unforgiving arena of aerial combat during the Korean War, Boyd observed something counterintuitive: F-86 Sabre pilots were consistently outperforming their opponents in MiG-15s, despite the MiG's superior technical specifications. This puzzle—how pilots in technically inferior aircraft could dominate—became the catalyst for Boyd's lifelong intellectual journey.
 
-Boyd's tactical insights transformed aerial combat from an art form into a science. While studying thermodynamics at Georgia Tech, he developed Energy-Maneuverability (E-M) Theory, recognizing that advantage came not from raw speed or power, but from the ability to rapidly "dump" and regain energy. His revolutionary work in aircraft design ultimately led to the F-16 fighter jet, demonstrating his ability to translate theoretical insights into practical applications.
+Boyd's tactical insights transformed aerial combat from an art form into a science. While studying thermodynamics at Georgia Tech, he developed Energy-Maneuverability (E-M) Theory, recognizing that advantage came not from raw speed or power, but from complex tradeoffs between thrust, weight, drag and other aviational forces. His revolutionary work in aircraft design ultimately led to the F-16 fighter jet, demonstrating his ability to translate theoretical insights into practical applications.
 
 This approach to solving complex problems—combining deep observation, cross-disciplinary thinking, and practical implementation—led to his most enduring contribution: the OODA Loop (Observe, Orient, Decide, Act).
 
@@ -164,3 +164,7 @@ A key insight from Boyd's work is that no single person needs to carry the entir
 As you navigate your next technical program, consider not just what you're building, but how your team observes, orients, decides, and acts. The quality of those loops—their speed, coherence, and learning capacity—may be the most important meta-process you manage.
 
 The technical leader who masters this rhythm gains what Boyd called "operating inside the opponent's OODA Loop"—the ability to adapt and evolve faster than the problems you face. In the accelerating landscape of technology, there may be no greater competitive advantage.
+
+### Acknowledgements
+
+H/t to Venkatesh Rao (https://contraptions.venkateshrao.com/) for introducing me to the OODA loop concept. Also, [this vital thesis](/assets/pdf/OODA-Loop-Ideas.pdf) preserves a large body of work from Colonel Boyd.  
