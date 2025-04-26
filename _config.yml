@@ -17,6 +17,7 @@ title: Kiran Pathakota
 email: kpats@hey.com
 description:
 url: "https://kpats.io"
+repository: "kpathakota/kpathakota.github.io"
 twitter_username: imkpats
 github_username: kpathakota
 minimal_mistakes_skin: sunrise
@@ -55,7 +56,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-remote-theme
-  - jekyll-analytics
 
 
 author:
@@ -114,9 +114,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-jekyll_analytics:
-  Plausible:
-    domain: 'kpats.io'   # The domain configured in plausible
-    source: 'https://plausible.io/js/script.js' # The source URL of the javascript,
-    404_tracking: true      # Enable 404 error tracking. Also requires changes to your webserver and 404.md
-                            # See https://plausible.io/docs/404-error-pages-tracking for other set up required
