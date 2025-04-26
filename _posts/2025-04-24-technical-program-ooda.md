@@ -1,6 +1,7 @@
 ---
 title: "OODA loops in Program Management"
 excerpt_separator: "<!--more-->"
+toc: true
 categories:
   - Blog
 tags:
