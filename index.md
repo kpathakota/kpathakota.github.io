@@ -25,8 +25,8 @@ I solve coordination problems for tech companies by drawing on over a decade of 
 My career spans leadership roles at industry giants and nimble startups:
 
 - At Amazon, I drove cross-team software development for the Echo Loop and founded Alexa mobile accessories
-- At Meta, I led connectivity feature development for Ray-Ban Stories, stabilizing app, Bluetooth, and WiFi connections
-- As co-founder of Dendron (YC W21), I scaled to a 10-person, remote team that shipped weekly at high quality
+- At Meta & Microsoft, I specialized in Bluetooth and connectivity feature development. I worked on Windows Phone, Microsoft Band and Ray-Ban Stories, stabilizing app, Bluetooth, and WiFi connections
+- As co-founder of Dendron (YC W21), I scaled up from a 2-person founding team to a 10-person, fully-remote, asynchronous team that shipped at a high velocity with quality
 
 When you work with me, you get a dedicated program management veteran who has implemented effective coordination systems across hardware and software development cycles. No junior associates, no bait-and-switch tactics—just battle-tested expertise applied directly to your challenges.
 I'll embed within your organization to design and implement an operational backbone tailored to your team's specific needs. My services operate on a weekly rate with the flexibility to cancel the moment you feel you're not getting exceptional value.
@@ -43,12 +43,12 @@ With infrastructure in place, I work alongside your team to embed these coordina
 
 ## 3. Separate
 
-As coordination becomes second nature, I prepare your team for independence. I focus on transferring ownership of the operational backbone, documenting processes, and ensuring your engineers are confident in maintaining the system. Unlike traditional consultants who create dependency, my goal is to make myself unnecessary by embedding these capabilities permanently within your organization. When I leave, you'll have a self-sustaining coordination machine that runs without adding specialized headcount.RetryClaude can make mistakes. Please double-check responses.
+As coordination becomes second nature, I prepare your team for independence. I focus on transferring ownership of the operational backbone, documenting processes, and ensuring your engineers are confident in maintaining the system. Unlike traditional consultants who create dependency, my goal is to make myself unnecessary by embedding these capabilities permanently within your organization. When I leave, you'll have a self-sustaining coordination machine that runs without adding specialized headcount.
 
-## Let's work together 
+## Let's work together
 
 Hi, thanks for checking out my small corner of the internet. As a product leader and generalist for over a decade, I've come to value working with good people on fun products. I have professional experience in product strategy, project management, and bluetooth. I dabble in community, ux, marketing and data. Projects where I'm particularly valuable usually have me operating at the intersection of multiple people either talking past each other or struggling to execute around a singular animating vision.
 
-I'd love to hear from you if you're working on something that could use some help. 
+I'd love to hear from you if you're working on something that could use some help.
 
 [Email me](mailto:kpats@hey.com) or [Let's Talk](https://cal.com/kpats){: .btn .btn--primary}
